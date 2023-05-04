@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wadawd.md",
+                "file": "Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wadawd.md",
+                "file": "Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wadawd.md",
+                "file": "Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wadawd.md"
+                "file": "Maths.md"
               }
             }
           }
@@ -157,9 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f68c54698dfcca1a",
+  "active": "62eaf32f2daac6ed",
   "lastOpenFiles": [
-    "Maths.md",
-    "wadawd.md"
+    "wadawd.md",
+    "Maths.md"
   ]
 }

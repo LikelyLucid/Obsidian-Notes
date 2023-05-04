@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "022843238c0a120f",
+        "id": "021cf39f0bc6a3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "62eaf32f2daac6ed",
+            "id": "0fc03aec58d50f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths.md"
+                "file": "Home.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62eaf32f2daac6ed",
+  "active": "0fc03aec58d50f14",
   "lastOpenFiles": [
+    "Home.md",
     "wadawd.md",
     "Maths.md"
   ]
